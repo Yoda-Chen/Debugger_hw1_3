@@ -1,0 +1,2 @@
+The program, test.py, can simplifies failure-inducing input. The idea is to use delta debugging to find a minimal input that causes an XML parser to fail.
+In the test.py line 7, "origin_file_name = 'demo/urls.xml'". You can type the file name which you want to test instead of 'demo/urls.xml'
